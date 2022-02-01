@@ -31,3 +31,6 @@ Additional components
    - https://www.amazon.com/dp/B07HNKKXGN
 
  - Filament
+   At 0.2mm quality, 20% infill, tree supports from buildplate
+   - Case: 16g, 2h41m
+   - Lid: 6g, 49m
