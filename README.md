@@ -1,6 +1,6 @@
 # SlimeVR-DIY-case-dev
 Development of alternative cases for DIY components.
-This case development is specifically for a 804040 LiPo battery and a SS22F32 DPDT slide switch
+This case development is specifically for a 804040 LiPo battery, SS22F32 DPDT slide switch, and JST ZH 5p connector
 
 Current target components (and links personally sourced from):
  - Wemos D1 Mini
@@ -16,9 +16,6 @@ Current target components (and links personally sourced from):
 
 Note that components from different manufacturers may have slightly different dimensions and PCB thicknesses.
 For alternative sizes, or to support different batteries and switches, one will need to edit the included F3D files.
-
-Connector for AUX connection:
-This can be edited or excluded in favor of a different connector or a cable that simply passes through the hole.
 
 Additional components
  - Schottky rectifier diodes (battery protection)
