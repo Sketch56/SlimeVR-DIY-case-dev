@@ -1,1 +1,1 @@
-Print with supports, as there are several overhangs.
+Print with supports, as there are several overhangs. Preferably tree supports, touching the buildplace
