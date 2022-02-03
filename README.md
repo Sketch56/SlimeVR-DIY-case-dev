@@ -4,11 +4,17 @@ This case development is specifically for a 804040 LiPo battery, SS22F32 DPDT sl
 
 Cases are numbered by [layout concept number].[major revision].[minor revision]
 
-Case model 9.0
-  Dims: 72.0\*44.2\*18.8mm
+# Case model 9.0  
 ![Image](https://github.com/Sketch56/SlimeVR-DIY-case-dev/blob/06c3cc5c6c8da82cac7aaef6484ed5e536fc3b83/images/case%209.0.6%201.jpg)
 ![Image](https://github.com/Sketch56/SlimeVR-DIY-case-dev/blob/06c3cc5c6c8da82cac7aaef6484ed5e536fc3b83/images/case%209.0.6%20interior%202.jpg)
+Dims: 72.0\*44.2\*18.8mm  
+At 0.2mm quality, 20% infill, tree supports from buildplate  
+-Case: 16g, 2h41m  
+-Lid: 6g, 49m  
 
+Other existing models will be added shortly
+
+# Components List
 Current target components (and links personally sourced from):
  - Wemos D1 Mini
    - https://www.aliexpress.com/item/1005001621784437.html
@@ -28,13 +34,11 @@ Additional components
  - Schottky rectifier diodes (battery protection)
    - https://www.aliexpress.com/item/1005002945015597.html 
  - 180Kohm resistor (battery life sense)
-   - https://www.aliexpress.com/item/1005001436946770.html (mistaken purchase, you don't need 1W resistors)
+   - https://www.aliexpress.com/item/1005001436946770.html (these are larger in size than necessary)
  - 28GA wire (safe and thin enough)
    - https://www.amazon.com/dp/B089CQ1C8L
  - JST ZH 5pin 1.5mm pitch (For aux IMU, can substitute with alternative connectors or directly soldered cables)
    - https://www.amazon.com/dp/B07HNKKXGN
 
  - Filament
-   At 0.2mm quality, 20% infill, tree supports from buildplate
-   - Case: 16g, 2h41m
-   - Lid: 6g, 49m
+   - You do you
