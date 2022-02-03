@@ -2,6 +2,13 @@
 Development of alternative cases for DIY components.
 This case development is specifically for a 804040 LiPo battery, SS22F32 DPDT slide switch, and JST ZH 5p connector
 
+Cases are numbered by [layout concept number].[major revision].[minor revision]
+
+Case model 9.0
+  Dims: 72.0\*44.2\*18.8mm
+![Image](https://github.com/Sketch56/SlimeVR-DIY-case-dev/blob/06c3cc5c6c8da82cac7aaef6484ed5e536fc3b83/images/case%209.0.6%201.jpg)
+![Image](https://github.com/Sketch56/SlimeVR-DIY-case-dev/blob/06c3cc5c6c8da82cac7aaef6484ed5e536fc3b83/images/case%209.0.6%20interior%202.jpg)
+
 Current target components (and links personally sourced from):
  - Wemos D1 Mini
    - https://www.aliexpress.com/item/1005001621784437.html
