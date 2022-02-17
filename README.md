@@ -13,10 +13,10 @@ At 0.2mm quality, 20% infill, tree supports from buildplate
 -Lid: 6g, 49m  
 
 # Case model 5.3  
-![Image](https://github.com/Sketch56/SlimeVR-DIY-case-dev/blob/06c3cc5c6c8da82cac7aaef6484ed5e536fc3b83/images/case%205.3.5%201.png)
-![Image](https://github.com/Sketch56/SlimeVR-DIY-case-dev/blob/06c3cc5c6c8da82cac7aaef6484ed5e536fc3b83/images/case%205.3.5%202.png)
+![Image](https://github.com/Sketch56/SlimeVR-DIY-case-dev/blob/d2e23e6f6cdbb311d32a4a8693514bffd53c932e/images/Case%205.3.5%201.png)
+![Image](https://github.com/Sketch56/SlimeVR-DIY-case-dev/blob/d2e23e6f6cdbb311d32a4a8693514bffd53c932e/images/Case%205.3.5%202.png)
 Dims: 57.6\*56.6\*20.5mm  
-A tray-based case similar to the Hyperion, the switch is actually sticking out the lid. This allows for a minimal tray size, and has convenient cutouts for cable management.
+A more traditional tray-based case similar to the Hyperion, though the switch is actually recessed into the lid rather than a side. This allows for a minimal tray size with an SS22F32 switch, and has convenient cutouts for cable management.
 
 Other existing models will be added shortly
 
