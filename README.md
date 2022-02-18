@@ -4,19 +4,20 @@ This case development is specifically for a 804040 LiPo battery, SS22F32 DPDT sl
 
 Cases are numbered by [layout concept number].[major revision].[minor revision]
 
-# Case model 9.0  
-![Image](https://github.com/Sketch56/SlimeVR-DIY-case-dev/blob/06c3cc5c6c8da82cac7aaef6484ed5e536fc3b83/images/case%209.0.6%201.jpg)
-![Image](https://github.com/Sketch56/SlimeVR-DIY-case-dev/blob/06c3cc5c6c8da82cac7aaef6484ed5e536fc3b83/images/case%209.0.6%20interior%202.jpg)
-Dims: 72.0\*44.2\*18.8mm  
-At 0.2mm quality, 20% infill, tree supports from buildplate  
--Case: 16g, 2h41m  
--Lid: 6g, 49m  
-
 # Case model 5.3  
 ![Image](https://github.com/Sketch56/SlimeVR-DIY-case-dev/blob/d2e23e6f6cdbb311d32a4a8693514bffd53c932e/images/Case%205.3.5%201.png)
 ![Image](https://github.com/Sketch56/SlimeVR-DIY-case-dev/blob/d2e23e6f6cdbb311d32a4a8693514bffd53c932e/images/Case%205.3.5%202.png)
 Dims: 57.6\*56.6\*20.5mm  
 A more traditional tray-based case similar to the Hyperion, though the switch is actually recessed into the lid rather than a side. This allows for a minimal tray size with an SS22F32 switch, and has convenient cutouts for cable management.
+
+# Case model 8.0
+
+Dims: 44.2\*57.2\*21.6mm
+
+# Case model 9.0  
+![Image](https://github.com/Sketch56/SlimeVR-DIY-case-dev/blob/06c3cc5c6c8da82cac7aaef6484ed5e536fc3b83/images/case%209.0.6%201.jpg)
+![Image](https://github.com/Sketch56/SlimeVR-DIY-case-dev/blob/06c3cc5c6c8da82cac7aaef6484ed5e536fc3b83/images/case%209.0.6%20interior%202.jpg)
+Dims: 72.0\*44.2\*18.8mm
 
 Other existing models will be added shortly
 
