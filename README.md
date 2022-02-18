@@ -10,8 +10,9 @@ Cases are numbered by [layout concept number].[major revision].[minor revision]
 Dims: 57.6\*56.6\*20.5mm  
 A more traditional tray-based case similar to the Hyperion, though the switch is actually recessed into the lid rather than a side. This allows for a minimal tray size with an SS22F32 switch, and has convenient cutouts for cable management.
 
-# Case model 8.0
-
+# Case model 8.0  
+![Image](https://github.com/Sketch56/SlimeVR-DIY-case-dev/blob/da075a7e9d7ac8ae9d084d69cdff7b5b58a5a10f/images/case%208.0.12%201.jpg)
+![Image](https://github.com/Sketch56/SlimeVR-DIY-case-dev/blob/da075a7e9d7ac8ae9d084d69cdff7b5b58a5a10f/images/case%208.0.12%20f360.png)
 Dims: 44.2\*57.2\*21.6mm
 
 # Case model 9.0  
