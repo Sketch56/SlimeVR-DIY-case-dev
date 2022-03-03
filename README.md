@@ -3,7 +3,7 @@ Development of alternative cases for DIY components.
 This case development is specifically for a 804040 LiPo battery, SS22F32 DPDT slide switch, and JST ZH 5p connector
 
 Cases are numbered by [layout concept number].[major revision].[minor revision]  
-A HIGHER CONCEPT NUMBER IS NOT INDICATIVE OF A BETTER DESIGN
+A HIGHER CONCEPT NUMBER IS NOT INDICATIVE OF A BETTER DESIGN  
 My current preference is case 8.0
 
 # Case model 5.3  
